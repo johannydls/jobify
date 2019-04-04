@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/johannydls/jobify/issues"
   },
-  "homepage": "https://github.com/johannydls/jobify#readme"
+  "homepage": "https://github.com/johannydls/jobify#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
